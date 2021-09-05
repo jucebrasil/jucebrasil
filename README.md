@@ -3,7 +3,7 @@
 <img align='right' src="https://github.com/jucebrasil/gofinances/blob/master/Video-sexta-feira%2C%203%20de%20setembro%20de%202021%201.gif" width="130">
 
 <h4>
-Dev em construção...ou bugou rs
+Dev em construção
 
 Entusiasta das melhores tecnologias de desenvolvimento web, mobile e design de Interface. Apaixonada por ciência e educação para mudar a vida das pessoas através da programação.
 "Nada no mundo pode superar a persistência. O talento não supera. Não há nada mais comum que talentosos fracassados. A genialidade não supera. Um gênio desconhecido é praticamente um clichê. A educação nāo supera. O mundo está cheio de tolos educados. A persistência e a determinação são muito poderosas."
