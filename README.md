@@ -32,6 +32,9 @@ Formação em Análise de Sistemas e Técnica em Desenvolvimento de Softwares.
 - 📱 &nbsp; React Native | Android | Kotlin
 
 - 🌐 &nbsp; HTML | CSS | JavaScript 
+
+- 🖥 &nbsp; SQL | MySQL | MongoDB 
+
 <!--
 
 - 🛢 &nbsp; MySQL | MongoDB | Firebase | PostGres
@@ -47,6 +50,8 @@ Formação em Análise de Sistemas e Técnica em Desenvolvimento de Softwares.
 <h3>🛠 To Learn</h3>
 
 - 🔧 &nbsp; React Native | Design Patterns | NodeJS | Cloud
+
+- 🔧 &nbsp; Java | SpringBoot | AWS
 
 <hr>
 
