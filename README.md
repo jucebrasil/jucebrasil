@@ -51,7 +51,7 @@ Formação em Análise de Sistemas e Técnica em Desenvolvimento de Softwares.
 
 - 📚 &nbsp; React Native | Design Patterns | NodeJS | Cloud
 
-- 📚 &nbsp; Java | SpringBoot | AWS
+- 📚 &nbsp; Java | SpringBoot | AWS | SQL Server 
 
 <hr>
 
