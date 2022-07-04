@@ -48,9 +48,7 @@ Formação em Análise de Sistemas e Técnica em Desenvolvimento de Softwares.
 
 <h3>🛠 To Learn</h3>
 
-- 📚 &nbsp; React Native | Design Patterns | NodeJS | Cloud
-
-- 📚 &nbsp; Java | SpringBoot | AWS | SQL Server 
+- 📚 &nbsp; React Native | C# | SQL Server 
 
 <hr>
 
