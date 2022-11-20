@@ -5,7 +5,7 @@
 <h4>
 Dev em construção
  
-Entusiasta das melhores tecnologias de desenvolvimento web, mobile e design de Interface. Apaixonada por ciência e educação para mudar a vida das pessoas através da programação. "Nada no mundo pode superar o esforço, a persistência e a determinação são armas muito poderosas".
+Entusiasta das melhores tecnologias de desenvolvimento web, mobile e design de Interface. Apaixonada por ciência e educação para mudar a vida das pessoas através da programação. "Nada no mundo pode superar o esforço, a persistência e a determinação são armas poderosas".
  
 Formação em Análise de Sistemas e Técnica em Desenvolvimento de Softwares.
 </h4>
