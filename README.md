@@ -49,6 +49,8 @@ Formação em Análise de Sistemas e Técnica em Desenvolvimento de Softwares.
 <h3>🛠 To Learn</h3>
 
 - 📚 &nbsp; React Native | C# | SQL Server 
+- 📚 &nbsp; Reporting Services | Power BI | Estrutura de Dados e Análise de Negócios
+- 🌐 &nbsp; Coreano | Inglês - Iniciante
 
 <hr>
 
