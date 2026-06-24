@@ -20,7 +20,7 @@ Formação em Análise de Sistemas e Técnica em Desenvolvimento de Softwares.
 
 - ✍️ &nbsp; Paixão por Design de Interfaces e Planejamento.
 
-- 😺 &nbsp; Ama seu gato **Kiko Brasil**
+- 😺 &nbsp; Ama seu gato **Kiko Brasil** 😿&nbsp; 23/11/2010-01/07/2025
 
 
 
@@ -50,7 +50,7 @@ Formação em Análise de Sistemas e Técnica em Desenvolvimento de Softwares.
 
 - 📚 &nbsp; React Native | C# | SQL Server 
 - 📚 &nbsp; Reporting Services | Power BI | Estrutura de Dados e Análise de Negócios
-- 🌐 &nbsp; Coreano | Inglês - Iniciante
+- 🌐 &nbsp; Inglês - Iniciante
 
 <hr>
 
