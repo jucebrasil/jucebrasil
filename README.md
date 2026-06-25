@@ -18,8 +18,6 @@ Acredito que a tecnologia, aliada ao conhecimento e à disciplina, é uma podero
 
 <h3> 👨🏻•💻 About Me </h3>
 
-
-
 * 🚀 Sempre em busca de novas tecnologias e boas práticas de desenvolvimento.
 * 🏢 Atuação em sistemas ERP, suporte técnico e análise de processos.
 * 🗄️ Experiência com SQL Server, consultas, manutenção e otimização de bancos de dados.
