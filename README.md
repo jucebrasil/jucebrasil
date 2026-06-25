@@ -21,6 +21,7 @@ Acredito que a tecnologia, aliada ao conhecimento e à disciplina, é uma podero
 * 🚀 Sempre em busca de novas tecnologias e boas práticas de desenvolvimento.
 * 🏢 Atuação em sistemas ERP, suporte técnico e análise de processos.
 * 🗄️ Experiência com SQL Server, consultas, manutenção e otimização de bancos de dados.
+* 🧪 Experiência em homologação de sistemas ERP, testes funcionais, validação de regras de negócio, identificação de bugs e acompanhamento de correções.
 * 🎯 Interesse em automação, integração de sistemas, UX/UI e análise de negócios.
 * 📖 Estudante contínuo e entusiasta da aprendizagem.
 * 🐱 Em memória do meu companheiro Kiko Brasil 😿(23/11/2010 • 01/07/2025).
