@@ -3,52 +3,48 @@
 <img align='right' src="https://github.com/jucebrasil/gofinances/blob/master/Video-sexta-feira%2C%203%20de%20setembro%20de%202021%201.gif" width="130">
 
 <h4>
-Dev em construção
+## 💻 Analista de Sistemas | Desenvolvedor em Evolução
  
-Entusiasta das melhores tecnologias de desenvolvimento web, mobile e design de Interface. Apaixonada por ciência e educação para mudar a vida das pessoas através da programação. "Nada no mundo pode superar o esforço, a persistência e a determinação são armas poderosas".
- 
-Formação em Análise de Sistemas e Técnica em Desenvolvimento de Softwares.
+Profissional apaixonado por tecnologia, automação de processos e desenvolvimento de soluções que geram valor para pessoas e empresas.
+
+Atuo como **Analista de Sistemas e Suporte**, com experiência em ERP, bancos de dados SQL Server, integrações de sistemas e atendimento ao cliente. Estou sempre buscando aprimorar meus conhecimentos em desenvolvimento web, mobile e arquitetura de software.
+
+Acredito que a tecnologia, aliada ao conhecimento e à disciplina, é uma poderosa ferramenta de transformação.
+
+> "Nada no mundo pode superar o esforço. Persistência e determinação são forças capazes de transformar objetivos em resultados."
+
+🎓 Formação em Análise de Sistemas e Técnico em Desenvolvimento de Software.
 </h4>
 
 <h3> 👨🏻•💻 About Me </h3>
 
 
 
-- 🤔 &nbsp; Sempre em busca de novas tecnologias para desenvolver soluções de software.
-
-- 🎓 &nbsp; Estudando React Native e Padrões de Projetos.
-
-- ✍️ &nbsp; Paixão por Design de Interfaces e Planejamento.
-
-- 😺 &nbsp; Ama seu gato **Kiko Brasil** 😿&nbsp; 23/11/2010-01/07/2025
-
-
+* 🚀 Sempre em busca de novas tecnologias e boas práticas de desenvolvimento.
+* 🏢 Atuação em sistemas ERP, suporte técnico e análise de processos.
+* 🗄️ Experiência com SQL Server, consultas, manutenção e otimização de bancos de dados.
+* 🎯 Interesse em automação, integração de sistemas, UX/UI e análise de negócios.
+* 📖 Estudante contínuo e entusiasta da aprendizagem.
+* 🐱 Em memória do meu companheiro Kiko Brasil 😿(23/11/2010 • 01/07/2025).
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java | Noções C++ e C 
+- 💻 &nbsp; Noções Python | Java | C++ e C 
 
-- 📱 &nbsp; React Native | Android | Kotlin
+- 📱 &nbsp; Android | Testes Funcionais de Software | Noções NET.MAUI
 
 - 🌐 &nbsp; HTML | CSS | JavaScript 
 
-- 🖥 &nbsp; SQL | MySQL | MongoDB 
+- 🖥 &nbsp; SQL | Sybase | MongoDB
 
-<!--
+- 🖥 &nbsp; Corel Draw | Adobe XD | Noções de Figma | Canva
 
-- 🛢 &nbsp; MySQL | MongoDB | Firebase | PostGres
-
-- 🔧 &nbsp; Git | Markdown | GitHub | GitLab
-
-- 🖥 &nbsp; Corel Draw| Adobe XD
- 
 - 📊 &nbsp; Jira | Confluence | Trello | Scrum | Kanban 
--->
 
 
 <h3>🛠 To Learn</h3>
 
-- 📚 &nbsp; React Native | C# | SQL Server 
+- 📚 &nbsp; NET.MAUI | C# | SQL Server | Integrações Web
 - 📚 &nbsp; Reporting Services | Power BI | Estrutura de Dados e Análise de Negócios
 - 🌐 &nbsp; Inglês - Iniciante
 
