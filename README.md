@@ -34,7 +34,7 @@ Acredito que a tecnologia, aliada ao conhecimento e à disciplina, é uma podero
 
 - 🌐 &nbsp; HTML | CSS | JavaScript 
 
-- 🖥 &nbsp; SQL | Sybase | MongoDB
+- 🖥 &nbsp; SQL Server | Sybase 
 
 - 🖥 &nbsp; Corel Draw | Adobe XD | Noções de Figma | Canva
 
